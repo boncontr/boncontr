@@ -4,7 +4,7 @@
 <img align="right" alt ="coding" width="800" src="![image](https://github.com/boncontr/boncontr/assets/137512008/ca8bb9ed-d058-4b0f-ae51-f0acc75ce827)">
 
 
-- 🔭 I’m currently working on **overtaking assistance car intelligent system**
+- 🔭 I’m currently working on **chatbot**
 
 - 💬 ANSWERABLE HERE: **6283986603**
 
