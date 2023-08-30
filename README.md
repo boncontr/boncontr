@@ -1,7 +1,5 @@
-<img src="(https://logos.textgiraffe.com/logos/logo-name/Anshu-designstyle-boots-m.png)" alt="right" width="400" height="200">
-
 <h1 align="center">Hey!!, I'm Anshu Narang</h1>
-<img align="right" alt ="coding" width="800" src="![image](https://github.com/boncontr/boncontr/assets/137512008/ca8bb9ed-d058-4b0f-ae51-f0acc75ce827)">
+<img align="right"  width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1500w">
 
 
 - 🔭 I’m currently working on **chatbot**
