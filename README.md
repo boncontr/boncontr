@@ -1,4 +1,6 @@
 <h1 align="center">Hey!!, I'm Anshu Narang</h1>
+<img align="left" width="400" src=<"https://logos.textgiraffe.com/logos/logo-name/Anshu-designstyle-boots-m.png">
+
 <img align="right"  width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=1500w">
 
 
